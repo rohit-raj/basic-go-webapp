@@ -1,0 +1,6 @@
+{
+    "gin"   : "https://github.com/gin-gonic/gin",
+    "uuid"  : "https://github.com/satori/go.uuid",
+    "bcrypt": "golang.org/x/crypto/bcrypt",
+    "mongo" : "gopkg.in/mgo.v2"
+}

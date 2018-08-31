@@ -1,0 +1,4 @@
+{
+    "Port": ":8080",
+    "Mongo_Url": "mongodb://user:password@ip:port/dbname"
+}

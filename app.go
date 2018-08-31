@@ -8,7 +8,6 @@ import (
 	"os"
 	"github.com/rohit-raj/basic-go-webapp/middleware"
 	"github.com/rohit-raj/basic-go-webapp/config"
-
 )
 
 func init(){
@@ -59,9 +58,4 @@ func main(){
 	configuration := config.Config()
 	log.Println("app running on : http://localhost"+configuration.Port)
 	router.Run(configuration.Port)
-}
-
-type Configuration struct{
-	Port		string
-	Mongo_Url	string
 }

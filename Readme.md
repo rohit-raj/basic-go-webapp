@@ -22,7 +22,7 @@ You need not have to create the collection. When the server starts, it will auto
 Feel free to post questions and star.
 
 [gin-gonic]: <https://github.com/gin-gonic/gin>
-[bcrypt]: <golang.org/x/crypto/bcrypt>
+[bcrypt]: <https://golang.org/x/crypto/bcrypt>
 [Go]: <https://github.com/golang/go>
 [uuid]: <https://github.com/satori/go.uuid>
-[mongo]: <gopkg.in/mgo.v2>
+[mongo]: <https://gopkg.in/mgo.v2>
